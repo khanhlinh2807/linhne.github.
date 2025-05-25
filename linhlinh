@@ -55,41 +55,7 @@
     font-size: 1.3rem;
     line-height: 1.7;
     color: #7a4a43;
-    font-weight: 600;
-    text-align: center;
-  }
-
-  footer {
-    margin-bottom: 2rem;
-    font-style: italic;
-    color: #b77c6b;
-  }
-
-  @media (max-width: 600px) {
-    header h1 {
-      font-size: 2.8rem;
-    }
-    main {
-      margin: 1rem 1rem 3rem;
-      padding: 1.5rem 1rem;
-    }
-  }
-</style>
-</head>
-<body>
-<header>
-  <h1>Tớ Xin Lỗi Cậu</h1>
-  <p>Món quà nhỏ dành tặng cậu, người tớ yêu thương</p>
-</header>
-<main>
-  <div class="apology-text">
-    Cậu ơi, tớ biết tớ như con mèo nghịch ngợm làm rối tung lên mọi thứ rồi. Tớ hứa lần sau sẽ ngoan hơn, không vẽ bậy lên tường lòng cậu nữa đâu!<br /><br />
-    Nếu tớ làm cậu giận, xin tha lỗi nha, tớ sẽ xin một nụ cười đáng yêu từ cậu bằng đủ mọi cách, kể cả múa lân hay hát karaoke... tội nghiệp cả nhà!<br /><br />
-    Cậu nhớ là tớ thật ra là "siêu anh hùng bí mật" chuyên sửa lỗi lầm đấy, nên đừng giận lâu kẻo tớ không kịp chuẩn bị siêu năng lực nhé! 😜
-  </div>
-</main>
-<footer>
-  &mdash; Từ trái tim tớ, với tất cả yêu thương &mdash;
+    fotớ, với tất cả yêu thương &mdash;
 </footer>
 </body>
 </html>
