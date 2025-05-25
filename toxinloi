@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Lời Xin Lỗi Đặc Biệt</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Poppins:wght@300;600&display=swap');
+
+  body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #fcefee, #fef8f5);
+    font-family: 'Poppins', sans-serif;
+    color: #5a3e36;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  header {
+    margin-top: 2rem;
+    text-align: center;
+  }
+
+  header h1 {
+    font-family: 'Alex Brush', cursive;
+    font-size: 3.5rem;
+    color: #d97768;
+    margin-bottom: 0;
+    letter-spacing: 0.05em;
+    text-shadow: 1px 1px 2px #b35b50;
+  }
+
+  header p {
+    font-size: 1.25rem;
+    margin-top: 0.2rem;
+    font-weight: 300;
+    color: #a96254;
+  }
+
+  main {
+    max-width: 800px;
+    margin: 2rem auto 4rem;
+    padding: 2rem 1rem;
+    background: #fff0f0;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(217, 144, 133, 0.3);
+  }
+
+  .apology-text {
+    font-size: 1.3rem;
+    line-height: 1.7;
+    color: #7a4a43;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  footer {
+    margin-bottom: 2rem;
+    font-style: italic;
+    color: #b77c6b;
+  }
+
+  @media (max-width: 600px) {
+    header h1 {
+      font-size: 2.8rem;
+    }
+    main {
+      margin: 1rem 1rem 3rem;
+      padding: 1.5rem 1rem;
+    }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Tớ Xin Lỗi Cậu</h1>
+  <p>Món quà nhỏ dành tặng cậu, người tớ yêu thương</p>
+</header>
+<main>
+  <div class="apology-text">
+    Cậu ơi, tớ biết tớ như con mèo nghịch ngợm làm rối tung lên mọi thứ rồi. Tớ hứa lần sau sẽ ngoan hơn, không vẽ bậy lên tường lòng cậu nữa đâu!<br /><br />
+    Nếu tớ làm cậu giận, xin tha lỗi nha, tớ sẽ xin một nụ cười đáng yêu từ cậu bằng đủ mọi cách, kể cả múa lân hay hát karaoke... tội nghiệp cả nhà!<br /><br />
+    Cậu nhớ là tớ thật ra là "siêu anh hùng bí mật" chuyên sửa lỗi lầm đấy, nên đừng giận lâu kẻo tớ không kịp chuẩn bị siêu năng lực nhé! 😜
+  </div>
+</main>
+<footer>
+  &mdash; Từ trái tim tớ, với tất cả yêu thương &mdash;
+</footer>
+</body>
+</html>
